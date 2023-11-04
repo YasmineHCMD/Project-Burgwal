@@ -1,3 +1,19 @@
+* {
+    background-color: darkslategrey;
+}
 
+.banner {
+    text-align: center;
+}
 
+.navigatie {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding: 25px;
+    margin: 1em;
+}
 
+a:link {
+    background-color: blue;
+}
